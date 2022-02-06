@@ -29,7 +29,3 @@ Here are some ideas to get you started:
   <img align="center" alt="Neves-MSSQL" height="60" width="50" src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
   <img align="center" alt="Neves-Cpp" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">
 </div>
-
- ##
- 
- ![Snake animation](https://github.com/NevesHenry/NevesHenry/blob/output/github-contribution-grid-snake.svg)
