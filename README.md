@@ -1,4 +1,4 @@
-### Olá! Eu sou o Henrique Neves.
+### Hello there! My name is Henrique
 
 <!--
 **NevesHenry/henriquerneves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
