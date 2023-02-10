@@ -15,11 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+ <!--
  <div>
   <a href="https://beacons.page/neveshenry">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NevesHenry&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NevesHenry&layout=compact&langs_count=7&theme=dark"/>
 </div>
+-->
 <div style="display: inline_block"><br>
   <img align="center" alt="Neves-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Neves-Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
