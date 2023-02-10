@@ -6,11 +6,15 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+-->
+- 🌱 I’m currently learning Java Spring Framework
+<!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+-->
+- 📫 How to reach me: henriquereisneves@hotmail.com
+<!--
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
@@ -22,7 +26,8 @@ Here are some ideas to get you started:
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NevesHenry&layout=compact&langs_count=7&theme=dark"/>
 </div>
 -->
-This are the tecnologies I have been studying.
+<br>
+This are the some of the tecnologies I have been studying.
 <div style="display: inline_block"><br>
   <img align="center" alt="Neves-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Neves-Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
