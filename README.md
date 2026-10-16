@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 
 - 🧑‍💻 I’m currently working at Axur
 -->
-- 🌱 I’m learning Java Spring Framework
+- 🌱 I’m always learning new things
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
